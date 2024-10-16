@@ -8,6 +8,7 @@ a {
 	font-size: 30px;
 	color: #8fd9fb;
 	display: inline;
+	text-align: center;
 }
 
 section {
@@ -17,4 +18,9 @@ section {
 	border-width: 30px;
 	padding: 20px;
 	color: #FFFFFF;
+}
+
+h1 {
+	font-size: 40px;
+	text-align: center;
 }
