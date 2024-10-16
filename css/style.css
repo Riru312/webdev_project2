@@ -4,6 +4,10 @@ body {
   color: #FBDA0C;
 }
 
+nav, ul{
+	list-style: none;
+}
+
 a {
 	font-size: 30px;
 	color: #8fd9fb;
