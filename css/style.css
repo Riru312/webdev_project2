@@ -4,15 +4,17 @@ body {
   color: #FBDA0C;
 }
 
-nav {
-	font-size: 50px;
+a {
+	font-size: 30px;
+	color: #8fd9fb;
+	display: inline;
 }
 
 section {
 	margin: 30px;
 	border-style: ridge;
 	border-color: #FBDA0C;
-	border-width: 100px;
+	border-width: 30px;
 	padding: 20px;
 	color: #FFFFFF;
 }
