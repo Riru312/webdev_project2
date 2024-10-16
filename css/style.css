@@ -4,6 +4,10 @@ body {
   color: #FBDA0C;
 }
 
+nav {
+	font-size: 20px;
+}
+
 section {
 	margin: 30px;
 	border-style: ridge;
