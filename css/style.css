@@ -17,7 +17,9 @@ nav,ul,li{
 a {
 	font-size: 30px;
 	color: #8fd9fb;
+	background-color: #ffed29;
 	text-align: center;
+	border-radius: 5px;
 }
 
 a:hover{
