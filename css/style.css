@@ -5,13 +5,12 @@ body {
 }
 
 nav, ul{
-	list-style: none;
+	display: inline;
 }
 
 a {
 	font-size: 30px;
 	color: #8fd9fb;
-	display: inline;
 	text-align: center;
 }
 
