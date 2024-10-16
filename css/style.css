@@ -8,7 +8,8 @@ body {
 
 section {
 	border-style: ridge;
-	border-color: #FBDA0C
+	border-color: #FBDA0C;
+	border-width: medium;
 	padding: 20px;
 	background-color: #FFFFFF;
 }
