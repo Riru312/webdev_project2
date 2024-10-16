@@ -9,19 +9,18 @@ ul{
 }
 
 nav,ul,li{
-	text-align: center;
 	float: none;
-	display: inline;
+	display: block;
 }
 
 nav,a {
-	font-size: 30px;
+	font-size: 1.5em;
 	color: #8fd9fb;
 	background-color: #ffed29;
 	text-align: center;
-	border-radius: 10px;
+	border-radius: 2em;
 	text-decoration: none;
-	padding: 15px;
+	padding: 1em;
 }
 
 a:hover{
@@ -29,11 +28,11 @@ a:hover{
 }
 
 section {
-	margin: 30px;
+	margin: 1.5em;
 	border-style: ridge;
 	border-color: #FBDA0C;
-	border-width: 30px;
-	padding: 20px;
+	border-width: 2em;
+	padding: 1em;
 	color: #FFFFFF;
 }
 
