@@ -6,9 +6,10 @@ body {
 
 nav, ul{
 	text-align: center;
+	list-style-type: none;  
 }
 
-nav, ul{
+nav, ul, li{
 	float: none;
 	display: inline;
 }
