@@ -5,3 +5,8 @@ body {
   padding: 0;
   color: #FBDA0C;
 }
+section {
+	border-style: ridge;
+  padding: 20px;
+	background-color: #FFFFFF;
+}
