@@ -5,6 +5,11 @@ body {
 }
 
 nav, ul{
+	text-align: center;
+}
+
+nav, ul{
+	float: none;
 	display: inline;
 }
 
@@ -12,6 +17,10 @@ a {
 	font-size: 30px;
 	color: #8fd9fb;
 	text-align: center;
+}
+
+a:hover{
+	color: #cd1c18;
 }
 
 section {
