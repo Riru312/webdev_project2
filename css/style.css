@@ -14,22 +14,22 @@ body {
 
 .like {
 	background-color: white;
-  color: #FBDA0C;
+  color: black;
 }
 
 #likelink:hover{
 	background-color: white;
-  color: #FBDA0C;
+  color: black;
 }
 
 .dislike {
 	background-color: black;
-  color: #FBDA0C;
+  color: white;
 }
 
 #dislikelink:hover{
 	background-color: black;
-  color: #FBDA0C;
+  color: white;
 }
 
 nav{
