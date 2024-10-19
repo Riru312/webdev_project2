@@ -62,7 +62,16 @@ section {
 	border-color: #FBDA0C;
 	border-width: 2em;
 	padding: 1em;
-	color: #FFFFFF;
+	color: #white;
+}
+
+.likesect {
+	margin: 1.5em;
+	border-style: ridge;
+	border-color: #FBDA0C;
+	border-width: 2em;
+	padding: 1em;
+	color: #black;
 }
 
 h1 {
