@@ -13,12 +13,12 @@ body {
 }
 
 .like {
-	background-color: white;
+	background-color: #C7C4BF;
   color: black;
 }
 
 #likelink:hover{
-	background-color: white;
+	background-color: #C7C4BF;
   color: black;
 }
 
