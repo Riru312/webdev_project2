@@ -7,7 +7,7 @@ body {
   color: #FBDA0C;
 }
 
-.resume:hover{
+#resumelink:hover{
 	background-color: #0057AD;
   color: #FBDA0C;
 }
@@ -17,7 +17,7 @@ body {
   color: #FBDA0C;
 }
 
-.like:hover{
+#likelink:hover{
 	background-color: white;
   color: #FBDA0C;
 }
@@ -27,7 +27,7 @@ body {
   color: #FBDA0C;
 }
 
-.dislike:hover{
+#dislikelink:hover{
 	background-color: black;
   color: #FBDA0C;
 }
@@ -54,10 +54,6 @@ nav ul li a {
 	padding: 1em;
 	border: 0.1em solid;
 	border-radius: 3em
-}
-
-a:hover{
-	color: #cd1c18;
 }
 
 section {
