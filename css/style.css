@@ -57,15 +57,6 @@ nav ul li a {
 	border-radius: 3em
 }
 
-section {
-	margin: 1.5em;
-	border-style: ridge;
-	border-color: #FBDA0C;
-	border-width: 2em;
-	padding: 1em;
-	color: #white;
-}
-
 .indexsect {
 	margin: 1.5em;
 	border-left: double;
