@@ -61,6 +61,8 @@ nav ul li a {
 	margin: 1.5em;
 	border-left: double;
 	border-right: double;
+	border-top: ridge;
+	border-bottom: ridge;
 	border-color: #fada0f;
 	border-width: 2em;
 	border-radius: 2em;
