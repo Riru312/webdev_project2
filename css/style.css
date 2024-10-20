@@ -75,9 +75,10 @@ section {
 	color: #black;
 }
 
-h1 {
-	font-size: 4em;
+section h1 {
+	font-size: 5em;
 	text-align: center;
+	font-weight: bold;
 }
 
 h2 {
