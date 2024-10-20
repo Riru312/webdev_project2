@@ -13,12 +13,12 @@ body {
 }
 
 .like {
-	background-color: #C7C4BF;
+	background-color: #b3ecec;
   color: black;
 }
 
 #likelink:hover{
-	background-color: #C7C4BF;
+	background-color: #b3ecec;
   color: black;
 }
 
@@ -66,13 +66,22 @@ section {
 	color: #white;
 }
 
-.likesect {
+#indexsect {
 	margin: 1.5em;
-	border-style: ridge;
-	border-color: #FBDA0C;
+	border-left: double;
+	border-right: double;
+	border-color: #fada0f;
+	border-width: 2em;
+	border-radius: 2em;
+	padding: 1em;
+}
+
+#likesect {
+	margin: 1.5em;
+	border-style: dashed;
+	border-color: #FBDA0C green;
 	border-width: 2em;
 	padding: 1em;
-	color: #black;
 }
 
 section h1 {
